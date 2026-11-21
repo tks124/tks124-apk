@@ -1,1 +1,0 @@
-console upload path self-test
